@@ -1,0 +1,14 @@
+streamlit
+yt-dlp
+openai-whisper
+torch
+sentence-transformers
+chromadb
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+langgraph
+duckduckgo-search
+langchain-text-splitters
